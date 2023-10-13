@@ -1,5 +1,10 @@
 # 中国科学院大学研究生学位论文开题报告LaTex模板
 
+## 使用
+1. 下载本项目：右上角 Code -> Download ZIP。
+2. 上传到overleaf：打开[overleaf](https://www.overleaf.com/)上传zip文件。
+3. 修改overleaf的编译器为XeLaTex：左上角Menu->Settings->Compiler。
+
 ## 未完成的工作
 + 封面字体和WORD模板字体有一点不同。
 + 目录格式和WORD模板的目录有一点不同。
